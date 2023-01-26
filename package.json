@@ -1,0 +1,25 @@
+{
+  "name": "expressintroapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnissenbaum18/ExpressIntroApp.git"
+  },
+  "keywords": [],
+  "author": "James Nissenbaum <jnissenbaum@verizon.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnissenbaum18/ExpressIntroApp/issues"
+  },
+  "homepage": "https://github.com/jnissenbaum18/ExpressIntroApp#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
